@@ -107,5 +107,5 @@ A seguir estão as capturas de tela que comprovam o funcionamento da solução, 
 **4. Visão Geral das Notificações na Caixa de Entrada**
 * **Descrição:** Visão geral da caixa de e-mails, mostrando a sequência de notificações recebidas (confirmação e eventos do S3).
 
-![Caixa de entrada com as notificações]([Artur%20-%20Notifica%C3%A7%C3%A3o%20Eventos%20no%20e-mail.png](https://github.com/arturcosta86/aws-s3-sns-sqs-notifications/blob/main/Artur%20-%20Notifica%C3%A7%C3%A3o%20Eventos%20no%20e-mail.png))
+![Caixa de entrada com as notificações](https://github.com/arturcosta86/aws-s3-sns-sqs-notifications/blob/main/Artur%20-%20Notifica%C3%A7%C3%A3o%20Eventos%20no%20e-mail.png))
 ````
